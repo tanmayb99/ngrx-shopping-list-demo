@@ -1,0 +1,1 @@
+# ngrx-shopping-list-demo
